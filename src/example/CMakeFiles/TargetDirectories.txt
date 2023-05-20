@@ -1,0 +1,10 @@
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/CMakeFiles/callc.dir
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/CMakeFiles/edit_cache.dir
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/CMakeFiles/rebuild_cache.dir
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/CMakeFiles/callc_autogen.dir
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/lib/CMakeFiles/edit_cache.dir
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/lib/CMakeFiles/rebuild_cache.dir
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/lib/SmartCalculator/CMakeFiles/smartCalculator.dir
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/lib/SmartCalculator/CMakeFiles/edit_cache.dir
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/lib/SmartCalculator/CMakeFiles/rebuild_cache.dir
+/home/_who/space_work/WORK/SmartCalc-v1.0/src/example/lib/SmartCalculator/CMakeFiles/smartCalculator_autogen.dir

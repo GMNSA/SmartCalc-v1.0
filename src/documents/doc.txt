@@ -1,0 +1,5 @@
+The program is written in C C++
+For installation "make install"
+For open "make start"
+For test "C" make test and make gcov_report
+For test "C++" make test_cpp
